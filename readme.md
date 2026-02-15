@@ -5,7 +5,7 @@ This project demonstrates database design, SQL analytics, and cloud deployment o
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -16,7 +16,7 @@ This project demonstrates database design, SQL analytics, and cloud deployment o
 
 ---
 
-## 📊 Core Features
+## Core Features
 
 ### Executive Overview
 
