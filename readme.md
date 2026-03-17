@@ -1,5 +1,7 @@
 # 🏥 Hospital Management Analytics Dashboard
 
+link to dashboard: https://hospital-operations-dashboard-kaf96mfqbpe9uyzqorzge7.streamlit.app/
+
 A cloud-connected hospital analytics dashboard built using Streamlit and PostgreSQL (Supabase).  
 This project demonstrates database design, SQL analytics, and cloud deployment of a real-world hospital management system.
 
